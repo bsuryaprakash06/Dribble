@@ -52,7 +52,6 @@ Publish the website in the LocalHost.
 
 <body>
 
-    <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow-sm sticky-top">
         <div class="container">
             <a class="navbar-brand fw-bold text-white" href="#">Dribbble Clone</a>
@@ -72,7 +71,6 @@ Publish the website in the LocalHost.
     </nav>
 
 
-    <!-- Hero Section -->
     <section class="py-5 text-center bg-light">
         <div class="container">
             <div class="row justify-content-center align-items-center">
@@ -107,7 +105,6 @@ Publish the website in the LocalHost.
         </div>
     </section>
 
-    <!-- Content Section -->
     <section class="py-5">
         <div class="container text-center">
             <h2 class="mb-5 fw-semibold">Featured Shots</h2>
@@ -151,7 +148,6 @@ Publish the website in the LocalHost.
 
     </section>
 
-    <!-- Join Section -->
     <section class="py-5 bg-dark text-white text-center">
         <div class="container">
             <h2 class="fw-bold mb-3">Join our creative community</h2>
@@ -160,7 +156,6 @@ Publish the website in the LocalHost.
         </div>
     </section>
 
-    <!-- Footer -->
     <footer class="py-3 bg-light text-center">
         <div class="container">
             <p class="mb-0">© 2025 Shane</p>
